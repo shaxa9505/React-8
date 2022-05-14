@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.start{
+  background: green;
+  border: none;
+  padding: 8px 10px;
+  color: white;
+  border-radius: 8px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.stop{
+  background: red;
+  border: none;
+  padding: 8px 10px;
+  color: white;
+  border-radius: 8px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.reset{
+  background: #123451;
+  border: none;
+  padding: 8px 10px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
